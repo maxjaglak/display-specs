@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Display Specs</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="small">Small</string>
+    <string name="normal">Normal</string>
+    <string name="large">Large</string>
+    <string name="extra_large">Extra Large</string>
+
+
+    <string name="ldpi">Low density</string>
+    <string name="mdpi">Medium density</string>
+    <string name="tvdpi">TV density</string>
+    <string name="hdpi">High density</string>
+    <string name="xhdpi">x High density</string>
+    <string name="dpi400">400 DPI class</string>
+    <string name="xxhdpi">x x High density</string>
+    <string name="dpi560">560 DPI class</string>
+    <string name="xxxhdpi">x x x High density</string>
+    <string name="empty" />
+    <string name="screen_resolution">Screen resolution:</string>
+    <string name="resolution_dp">Resolution (density pixels):</string>
+    <string name="density">Density:</string>
+    <string name="pixels_per_inch">pixels / inch</string>
+    <string name="density_class">Density class:</string>
+    <string name="scale">"Scale: "</string>
+    <string name="screen_size_class">Screen size class:</string>
+
+
+</resources>
